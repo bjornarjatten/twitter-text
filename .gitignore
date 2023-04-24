@@ -7,3 +7,4 @@ twitter-text.iml
 .DS_Store
 *.sw?
 java/bin
+.fake
