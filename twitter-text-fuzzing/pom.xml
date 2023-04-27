@@ -93,7 +93,7 @@
                       <transformers>
                           <transformer
                                   implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                              <mainClass>com.ethicalhacking.twittertextfuzzing.App</mainClass>
+                              <mainClass>com.ethicalhacking.twittertextfuzzing.TwitterFuzzer</mainClass>
                           </transformer>
                       </transformers>
                   </configuration>

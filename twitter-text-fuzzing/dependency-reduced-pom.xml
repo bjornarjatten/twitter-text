@@ -60,7 +60,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.ethicalhacking.twittertextfuzzing.App</mainClass>
+                  <mainClass>com.ethicalhacking.twittertextfuzzing.TwitterFuzzer</mainClass>
                 </transformer>
               </transformers>
             </configuration>
